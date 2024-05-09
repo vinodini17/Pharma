@@ -689,8 +689,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 ```
 
 ## OUTPUT:
-![image](https://github.com/vinodini17/Pharma/assets/149347288/8fd547bf-17e2-451e-b3d0-daf6c8e6a3e8)
 ![image](https://github.com/vinodini17/Pharma/assets/149347288/ab2ddec7-5333-4708-b7f2-8b00a50a867f)
+![image](https://github.com/vinodini17/Pharma/assets/149347288/8fd547bf-17e2-451e-b3d0-daf6c8e6a3e8)
+
 
 
 ## RESULT:
